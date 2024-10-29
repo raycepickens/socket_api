@@ -26,4 +26,6 @@ This is a simple HTTP server built using Python's `socket` library to handle HTT
 
 
 
-note: server does not have a working data-base and currently uses variables to store data, so any info stored will only be saved in the session it was created in
+notes:
+server does not have a working data-base and currently uses variables to store data, so any info stored will only be saved in the session it was created in
+client is bare bones and was used for testing along the way, should not be used as a comprehensive test tool
